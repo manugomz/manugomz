@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Tamagotchi](https://github.com/manugomz/Tamagotchi)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** & **React**
 
 - 💬 Ask me about **Javascript, CSS & HTML**
 

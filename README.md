@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Manuela Gómez</h1>
 <h3 align="center">A passionate frontend developer from Colombia.</h3>
 
-- 🔭 I’m currently working on [Tamagotchi](https://github.com/manugomz/Tamagotchi)
+- 🔭 I’m currently working on [To do list](https://github.com/manugomz/To-do-list)
 
 - 🌱 I’m currently learning **AWS** and **React**
 

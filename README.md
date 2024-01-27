@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on <a href="https://github.com/manugomz/Danse_Academy" >Danse Academy<a/> <br>✨ Creating bugs since February 2023<br>📚 I'm currently learning Node<br>🎯 Goals: To become a Senior programmer<br>🎲 Fun fact: Left handed & music lover</p>
+<p align="left">🔭 Currently working on <a href="https://github.com/manugomz/Danse_Academy" >Danse Academy<a/> <br>✨ Creating bugs since February 2023<br>📚 I'm currently learning Node.JS<br>🎯 Goals: To become a Senior programmer<br>🎲 Fun fact: Left handed & music lover</p>
 
 ###
 

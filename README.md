@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Front-end from Colombia!</p>
+<p align="left">I'm a Front-end from Colombia!</p>
 
 ###
 

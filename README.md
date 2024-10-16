@@ -3,7 +3,7 @@
 </h1>
   <p align="left">I'm a passionate Front-end Developer from Colombia 🇨🇴, exploring the world of web technologies and user interfaces!</p>
 <h2 align="center">👩‍💻 About Me</h2> 
->   <p align="left"> ✨ Coding since 2023, always learning and growing<br> 📚 Currently diving deeper into <strong>TypeScript</strong> <br> 🎵 Fun fact: I'm left-handed and a huge music lover—coding with the perfect playlist: 1000% better code 👌 <br> </p>
+  <p align="left"> ✨ Coding since 2023, always learning and growing<br> 📚 Currently diving deeper into <strong>TypeScript</strong> <br> 🎵 Fun fact: I'm left-handed and a huge music lover—coding with the perfect playlist: 1000% better code 👌 <br> </p>
 <h2 align="center">🛠 I Code With</h2> 
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> 
